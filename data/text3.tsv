@@ -1,0 +1,983 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.FormaleDimension|value
+#T_SP=webanno.custom.FunktionaleDimension|value
+
+
+#Text=ExportComments.com
+1-1	0-18	ExportComments.com	_	_	
+
+#Text=Source URL\thttps://www.instagram.com/p/CIgSYzXMgBo/?utm_source=ig_web_copy_link
+2-1	25-31	Source	_	_	
+2-2	32-35	URL	_	_	
+2-3	36-41	https	_	_	
+2-4	41-42	:	_	_	
+2-5	42-43	/	_	_	
+2-6	43-44	/	_	_	
+2-7	44-61	www.instagram.com	_	_	
+2-8	61-62	/	_	_	
+2-9	62-63	p	_	_	
+2-10	63-64	/	_	_	
+2-11	64-75	CIgSYzXMgBo	_	_	
+2-12	75-76	/	_	_	
+2-13	76-77	?	_	_	
+2-14	77-87	utm_source	_	_	
+2-15	87-88	=	_	_	
+2-16	88-104	ig_web_copy_link	_	_	
+
+#Text=Comment
+3-1	131-138	Comment	_	_	
+
+#Text=Ihr Zwei seht super aus 🙏🏻😍 Mag den Store auch so gern!
+4-1	140-143	Ihr	SIEHST[1]	FP\_p\_oW[39]	
+4-2	144-148	Zwei	SIEHST[1]	FP\_p\_oW[39]	
+4-3	149-153	seht	SIEHST[1]	FP\_p\_oW[39]	
+4-4	154-159	super	SIEHST[1]	FP\_p\_oW[39]	
+4-5	160-163	aus	SIEHST[1]	FP\_p\_oW[39]	
+4-6	164-166	🙏	SIEHST[1]	FP\_p\_oW[39]|EM\_dank[40]	
+4-7	166-168	🏻	SIEHST[1]	FP\_p\_oW[39]|EM\_dank[40]	
+4-8	168-170	😍	SIEHST[1]	FP\_p\_oW[39]|EM\_bez[41]|EvB\_e\_rand[42]	
+4-9	171-174	Mag	_	AS\_p[43]|Al\_ü\_s[44]	
+4-10	175-178	den	_	AS\_p[43]|Al\_ü\_s[44]|ASO\_p[45]	
+4-11	179-184	Store	_	AS\_p[43]|Al\_ü\_s[44]|ASO\_p[45]	
+4-12	185-189	auch	_	AS\_p[43]|Al\_ü\_s[44]	
+4-13	190-192	so	_	AS\_p[43]|Al\_ü\_s[44]	
+4-14	193-197	gern	_	AS\_p[43]|Al\_ü\_s[44]	
+4-15	197-198	!	_	AS\_p[43]|Al\_ü\_s[44]	
+
+#Text=@juliamosig Ich auch! Wenn ich mal in Berlin bin, dann will ich mir den Laden super gern mal vor Ort anschauen! 😍
+5-1	199-200	@	_	Ad\_@[46]	
+5-2	200-210	juliamosig	_	Ad\_@[46]	
+5-3	211-214	Ich	_	Al\_ü\_s[47]	
+5-4	215-219	auch	_	Al\_ü\_s[47]	
+5-5	219-220	!	_	Al\_ü\_s[47]	
+5-6	221-225	Wenn	_	_	
+5-7	226-229	ich	_	_	
+5-8	230-233	mal	_	_	
+5-9	234-236	in	_	_	
+5-10	237-243	Berlin	_	_	
+5-11	244-247	bin	_	_	
+5-12	247-248	,	_	_	
+5-13	249-253	dann	_	_	
+5-14	254-258	will	_	_	
+5-15	259-262	ich	_	_	
+5-16	263-266	mir	_	_	
+5-17	267-270	den	_	_	
+5-18	271-276	Laden	_	_	
+5-19	277-282	super	_	_	
+5-20	283-287	gern	_	_	
+5-21	288-291	mal	_	_	
+5-22	292-295	vor	_	_	
+5-23	296-299	Ort	_	_	
+5-24	300-309	anschauen	_	_	
+5-25	309-310	!	_	_	
+5-26	311-313	😍	_	EvB\_e\_kern[48]|EvÄ\_p[49]|EM\_komfin[50]	
+
+#Text=Na jedes natürlich wieder 🙌😍🧡
+6-1	314-316	Na	In	EvÄ\_p[51]	
+6-2	317-322	jedes	_	EvÄ\_p[51]|EvO[52]	
+6-3	323-332	natürlich	_	EvÄ\_p[51]	
+6-4	333-339	wieder	_	EvÄ\_p[51]	
+6-5	340-342	🙌	_	EvÄ\_p[51]|EM\_reG[53]	
+6-6	342-344	😍	_	EvÄ\_p[51]|EM\_bez[54]|EvB\_e\_kern[55]	
+6-7	344-346	🧡	_	EvÄ\_p[51]|EM\_bez[56]	
+
+#Text=@nest.and.nomad Hahahaha 😁🥰🧡
+7-1	347-348	@	_	Ad\_@[57]	
+7-2	348-362	nest.and.nomad	_	Ad\_@[57]	
+7-3	363-371	Hahahaha	In[2]	CR[58]|Iteration[59]	
+7-4	372-374	😁	In[2]	CR[58]|EM\_freu[60]	
+7-5	374-376	🥰	In[2]	CR[58]|EM\_bez[61]	
+7-6	376-378	🧡	In[2]	CR[58]|EM\_bez[62]	
+
+#Text=Alle sind sehr schön aber 2 und 3 und sind meine Favoriten 🤩☺️👍
+8-1	379-383	Alle	_	EvÄ\_p[63]|EvO[64]	
+8-2	384-388	sind	_	EvÄ\_p[63]	
+8-3	389-393	sehr	_	EvÄ\_p[63]|EvB\_l[65]	
+8-4	394-399	schön	_	EvÄ\_p[63]|EvB\_l[65]	
+8-5	400-404	aber	_	_	
+8-6	405-406	2	_	AS\_p[66]|EvÄ\_p[67]|EvO[68]|ASO\_p[69]	
+8-7	407-410	und	_	AS\_p[66]|EvÄ\_p[67]|EvO[68]|ASO\_p[69]	
+8-8	411-412	3	_	AS\_p[66]|EvÄ\_p[67]|EvO[68]|ASO\_p[69]	
+8-9	413-416	und	_	AS\_p[66]|EvÄ\_p[67]	
+8-10	417-421	sind	_	AS\_p[66]|EvÄ\_p[67]	
+8-11	422-427	meine	_	AS\_p[66]|EvÄ\_p[67]|EvB\_l[70]	
+8-12	428-437	Favoriten	_	AS\_p[66]|EvÄ\_p[67]|EvB\_l[70]|EvN\_p[71]	
+8-13	438-440	🤩	_	AS\_p[66]|EM\_komfin[72]|EvB\_e\_rand[73]	
+8-14	440-442	☺️	_	AS\_p[66]|EM\_komfin[72]|EM\_freu[74]	
+8-15	442-444	👍	_	AS\_p[66]|EM\_komfin[72]|EvB\_e\_rand[75]	
+
+#Text=@sevisevy 😁🥰🧡👍🏼
+9-1	445-446	@	_	Ad\_@[76]	
+9-2	446-454	sevisevy	_	Ad\_@[76]	
+9-3	455-457	😁	_	EvÄ\_p[77]|EM\_k\_p[78]|CR[79]|EM\_freu[80]	
+9-4	457-459	🥰	_	EvÄ\_p[77]|EM\_k\_p[78]|CR[79]|EM\_bez[81]	
+9-5	459-461	🧡	_	EvÄ\_p[77]|EM\_k\_p[78]|CR[79]|EM\_bez[82]	
+9-6	461-463	👍	_	EvÄ\_p[77]|EM\_k\_p[78]|CR[79]|EvB\_e\_kern[83]	
+9-7	463-465	🏼	_	EvÄ\_p[77]|EM\_k\_p[78]|CR[79]|EvB\_e\_kern[83]	
+
+#Text=Bild 2 und 3 sind meine Favoriten 😍😍 ihr seht toll aus, die Schwangerschaft steht dir 😍
+10-1	466-470	Bild	_	EvÄ\_p[84]|EvO[85]	
+10-2	471-472	2	_	EvÄ\_p[84]|EvO[85]	
+10-3	473-476	und	_	EvÄ\_p[84]|EvO[85]	
+10-4	477-478	3	_	EvÄ\_p[84]|EvO[85]	
+10-5	479-483	sind	_	EvÄ\_p[84]	
+10-6	484-489	meine	_	EvÄ\_p[84]|EvB\_l[86]	
+10-7	490-499	Favoriten	_	EvÄ\_p[84]|EvB\_l[86]|EvN\_p[87]	
+10-8	500-502	😍	_	EvÄ\_p[84]|Iteration[88]|EM\_bez[89]|EvB\_e\_rand[90]	
+10-9	502-504	😍	_	EvÄ\_p[84]|Iteration[88]|EM\_bez[91]|EvB\_e\_rand[92]	
+10-10	505-508	ihr	SIEHST[3]	FP\_p\_oW[93]	
+10-11	509-513	seht	SIEHST[3]	FP\_p\_oW[93]	
+10-12	514-518	toll	SIEHST[3]	FP\_p\_oW[93]	
+10-13	519-522	aus	SIEHST[3]	FP\_p\_oW[93]	
+10-14	522-523	,	_	_	
+10-15	524-527	die	_	OP\_p\_mW[94]	
+10-16	528-543	Schwangerschaft	_	OP\_p\_mW[94]	
+10-17	544-549	steht	_	OP\_p\_mW[94]	
+10-18	550-553	dir	_	OP\_p\_mW[94]	
+10-19	554-556	😍	_	OP\_p\_mW[94]|EM\_bez[95]|EvB\_e\_kern[96]|EvÄ\_p[97]|*[98]	
+
+#Text=@lrsadns Hihi, danke dir 💛
+11-1	557-558	@	_	Ad\_@[99]	
+11-2	558-565	lrsadns	_	Ad\_@[99]	
+11-3	566-570	Hihi	In	CR[100]	
+11-4	570-571	,	_	CR[100]	
+11-5	572-577	danke	_	CR[100]|DaÄ[101]	
+11-6	578-581	dir	_	CR[100]|DaÄ[101]	
+11-7	582-584	💛	_	CR[100]|DaÄ[101]|EM\_bez[102]	
+
+#Text=Die 5 😊 Da siehst du aus wie eine Tannenbaumkugel 🎄 Klingt nicht wie ein Kompliment, da du aber schwanger bist, ist es das auf jeden Fall!🙈❤️
+12-1	585-588	Die	NP[4]	_	
+12-2	589-590	5	NP[4]	_	
+12-3	591-593	😊	NP[4]	EM\_freu	
+12-4	594-596	Da	SIEHST[5]	FP\_p\_oW[103]	
+12-5	597-603	siehst	SIEHST[5]	FP\_p\_oW[103]	
+12-6	604-606	du	SIEHST[5]	FP\_p\_oW[103]	
+12-7	607-610	aus	SIEHST[5]	FP\_p\_oW[103]	
+12-8	611-614	wie	SIEHST[5]	FP\_p\_oW[103]	
+12-9	615-619	eine	SIEHST[5]	FP\_p\_oW[103]	
+12-10	620-635	Tannenbaumkugel	SIEHST[5]	FP\_p\_oW[103]	
+12-11	636-638	🎄	SIEHST[5]	FP\_p\_oW[103]|EM\_b[104]	
+12-12	639-645	Klingt	_	OP\_p\_oW[105]	
+12-13	646-651	nicht	_	OP\_p\_oW[105]	
+12-14	652-655	wie	_	OP\_p\_oW[105]	
+12-15	656-659	ein	_	OP\_p\_oW[105]	
+12-16	660-670	Kompliment	_	OP\_p\_oW[105]	
+12-17	670-671	,	_	OP\_p\_oW[105]	
+12-18	672-674	da	_	OP\_p\_oW[105]	
+12-19	675-677	du	_	OP\_p\_oW[105]	
+12-20	678-682	aber	_	OP\_p\_oW[105]	
+12-21	683-692	schwanger	_	OP\_p\_oW[105]	
+12-22	693-697	bist	_	OP\_p\_oW[105]	
+12-23	697-698	,	_	OP\_p\_oW[105]	
+12-24	699-702	ist	_	OP\_p\_oW[105]	
+12-25	703-705	es	_	OP\_p\_oW[105]	
+12-26	706-709	das	_	OP\_p\_oW[105]	
+12-27	710-713	auf	_	OP\_p\_oW[105]	
+12-28	714-719	jeden	_	OP\_p\_oW[105]	
+12-29	720-724	Fall	_	OP\_p\_oW[105]	
+12-30	724-725	!	_	OP\_p\_oW[105]	
+12-31	725-727	🙈	_	OP\_p\_oW[105]|EM\_reG[106]	
+12-32	727-729	❤️	_	OP\_p\_oW[105]|EM\_bez[107]	
+
+#Text=@jeannette.babette Hahahahaha 🥰🎄🧡😁
+13-1	730-731	@	_	Ad\_@[108]	
+13-2	731-748	jeannette.babette	_	Ad\_@[108]	
+13-3	749-759	Hahahahaha	In[6]	CR[109]	
+13-4	760-762	🥰	In[6]	CR[109]|EM\_bez[110]	
+13-5	762-764	🎄	In[6]	CR[109]|EM\_ins[111]	
+13-6	764-766	🧡	In[6]	CR[109]|EM\_bez[112]	
+13-7	766-768	😁	In[6]	CR[109]|EM\_freu[113]	
+
+#Text=Definitiv eins von denen mit Florian und dir zusammen 💜
+14-1	769-778	Definitiv	_	EvÄ\_p[114]	
+14-2	779-783	eins	_	EvÄ\_p[114]|EvO[115]	
+14-3	784-787	von	_	EvÄ\_p[114]|EvO[115]	
+14-4	788-793	denen	_	EvÄ\_p[114]|EvO[115]	
+14-5	794-797	mit	_	EvÄ\_p[114]|EvO[115]	
+14-6	798-805	Florian	_	EvÄ\_p[114]|EvO[115]	
+14-7	806-809	und	_	EvÄ\_p[114]|EvO[115]	
+14-8	810-813	dir	_	EvÄ\_p[114]|EvO[115]	
+14-9	814-822	zusammen	_	EvÄ\_p[114]|EvO[115]	
+14-10	823-825	💜	_	EvÄ\_p[114]|EM\_bez[116]	
+
+#Text=@selenabrll ☺️💛
+15-1	826-827	@	_	Ad\_@[117]	
+15-2	827-837	selenabrll	_	Ad\_@[117]	
+15-3	838-840	☺️	_	EM\_k\_p[118]|CR[119]|EM\_freu[120]	
+15-4	840-842	💛	_	EM\_k\_p[118]|CR[119]|EM\_bez[121]	
+
+#Text=3 & 4 😍🥰👫🏻
+16-1	843-844	3	_	EvÄ\_p[122]|EvO[123]	
+16-2	845-846	&	_	EvÄ\_p[122]	
+16-3	847-848	4	_	EvÄ\_p[122]|EvO[124]	
+16-4	849-851	😍	_	EvÄ\_p[122]|EM\_bez[125]|EvB\_e\_kern[126]	
+16-5	851-853	🥰	_	EvÄ\_p[122]|EM\_bez[127]	
+16-6	853-855	👫	_	EvÄ\_p[122]|EM\_ins[128]	
+16-7	855-857	🏻	_	EvÄ\_p[122]|EM\_ins[128]	
+
+#Text=@_jes__sica_ ☺️💛
+17-1	858-859	@	_	Ad\_@[129]	
+17-2	859-860	_	_	Ad\_@[129]	
+17-3	860-863	jes	_	Ad\_@[129]	
+17-4	863-864	_	_	Ad\_@[129]	
+17-5	864-865	_	_	Ad\_@[129]	
+17-6	865-869	sica	_	Ad\_@[129]	
+17-7	869-870	_	_	Ad\_@[129]	
+17-8	871-873	☺️	_	EM\_k\_p[130]|CR[131]|EM\_freu[132]	
+17-9	873-875	💛	_	EM\_k\_p[130]|CR[131]|EM\_bez[133]	
+
+#Text=5💋
+18-1	876-877	5	_	_	
+18-2	877-879	💋	_	EM\_bez	
+
+#Text=@blaubeereborowka 💛💛
+19-1	880-881	@	_	Ad\_@[134]	
+19-2	881-897	blaubeereborowka	_	Ad\_@[134]	
+19-3	898-900	💛	_	Iteration[135]|EM\_k\_p[136]|CR[137]|EM\_bez[138]	
+19-4	900-902	💛	_	Iteration[135]|EM\_k\_p[136]|CR[137]|EM\_bez[139]	
+
+#Text=Oh ihr süßen! Toll seht ihr aus und die Outfits sind auch 💣 🔥💫🧡🧡
+20-1	903-905	Oh	NP[7]|In[8]	EvÄ\_p[140]	
+20-2	906-909	ihr	NP[7]	EvÄ\_p[140]|EvO[141]	
+20-3	910-915	süßen	NP[7]	EvÄ\_p[140]|EvN\_p[142]	
+20-4	915-916	!	NP[7]	EvÄ\_p[140]	
+20-5	917-921	Toll	SIEHST[9]	FP\_p\_oW[143]	
+20-6	922-926	seht	SIEHST[9]	FP\_p\_oW[143]	
+20-7	927-930	ihr	SIEHST[9]	FP\_p\_oW[143]	
+20-8	931-934	aus	SIEHST[9]	FP\_p\_oW[143]	
+20-9	935-938	und	_	_	
+20-10	939-942	die	_	EvÄ\_p[144]|EvO[145]	
+20-11	943-950	Outfits	_	EvÄ\_p[144]|EvO[145]	
+20-12	951-955	sind	_	EvÄ\_p[144]	
+20-13	956-960	auch	_	EvÄ\_p[144]	
+20-14	961-963	💣	_	EvÄ\_p[144]|EM\_komfin[146]|EvB\_e\_kern[147]	
+20-15	964-966	🔥	_	EvÄ\_p[144]|EM\_komfin[146]|EvB\_e\_kern[148]	
+20-16	966-968	💫	_	EvÄ\_p[144]|EM\_komfin[146]|EM\_schm[149]	
+20-17	968-970	🧡	_	EvÄ\_p[144]|EM\_komfin[146]|Iteration[150]|EM\_bez[151]	
+20-18	970-972	🧡	_	EvÄ\_p[144]|EM\_komfin[146]|Iteration[150]|EM\_bez[152]	
+
+#Text=@linsyas Danke meine Liebe! 💛
+21-1	973-974	@	_	Ad\_@[153]	
+21-2	974-981	linsyas	_	Ad\_@[153]	
+21-3	982-987	Danke	_	DaÄ[154]|CR[155]	
+21-4	988-993	meine	_	DaÄ[154]|CR[155]|Ad\_K[156]	
+21-5	994-999	Liebe	_	DaÄ[154]|CR[155]|Ad\_K[156]	
+21-6	999-1000	!	_	DaÄ[154]|CR[155]	
+21-7	1001-1003	💛	_	DaÄ[154]|CR[155]|EM\_bez[157]	
+
+#Text=3💙
+22-1	1004-1005	3	_	_	
+22-2	1005-1007	💙	_	EM\_bez	
+
+#Text=@leoo.peo ☺️💛
+23-1	1008-1009	@	_	Ad\_@[158]	
+23-2	1009-1017	leoo.peo	_	Ad\_@[158]	
+23-3	1018-1020	☺️	_	EM\_k\_p[159]|CR[160]|EM\_freu[161]	
+23-4	1020-1022	💛	_	EM\_k\_p[159]|CR[160]|EM\_bez[162]	
+
+#Text=Bild Nr 2 ist soo schön 😍 einfach happy 😊
+24-1	1023-1027	Bild	_	EvÄ\_p[163]|EvO[164]	
+24-2	1028-1030	Nr	_	EvÄ\_p[163]|EvO[164]	
+24-3	1031-1032	2	_	EvÄ\_p[163]|EvO[164]	
+24-4	1033-1036	ist	_	EvÄ\_p[163]	
+24-5	1037-1040	soo	_	EvÄ\_p[163]|EvB\_l[165]|Iteration[166]	
+24-6	1041-1046	schön	_	EvÄ\_p[163]|EvB\_l[165]	
+24-7	1047-1049	😍	_	EvÄ\_p[163]|EM\_bez[167]|EvB\_e\_rand[168]	
+24-8	1050-1057	einfach	AdjP[10]	EvÄ\_p[169]|EvB\_l[170]	
+24-9	1058-1063	happy	AdjP[10]	EvÄ\_p[169]|EvB\_l[170]	
+24-10	1064-1066	😊	AdjP[10]	EvÄ\_p[169]|EM\_freu[171]	
+
+#Text=@clara.hen_ 😁💛
+25-1	1067-1068	@	_	Ad\_@[172]	
+25-2	1068-1077	clara.hen	_	Ad\_@[172]	
+25-3	1077-1078	_	_	Ad\_@[172]	
+25-4	1079-1081	😁	_	EM\_k\_p[173]|CR[174]|EM\_freu[175]	
+25-5	1081-1083	💛	_	EM\_k\_p[173]|CR[174]|EM\_bez[176]	
+
+#Text=4 🔥😍
+26-1	1084-1085	4	_	EvÄ\_p[177]|EvO[178]	
+26-2	1086-1088	🔥	_	EvÄ\_p[177]|EvB\_e\_kern[179]	
+26-3	1088-1090	😍	_	EvÄ\_p[177]|EM\_bez[180]|EvB\_e\_kern[181]	
+
+#Text=@lydi.please ☺️💛
+27-1	1091-1092	@	_	Ad\_@[182]	
+27-2	1092-1103	lydi.please	_	Ad\_@[182]	
+27-3	1104-1106	☺️	_	EM\_k\_p[183]|CR[184]|EM\_freu[185]	
+27-4	1106-1108	💛	_	EM\_k\_p[183]|CR[184]|EM\_bez[186]	
+
+#Text=Alle schön 💕
+28-1	1109-1113	Alle	NP[11]	EvÄ\_p[187]|EvO[188]	
+28-2	1114-1119	schön	NP[11]	EvÄ\_p[187]|EvB\_l[189]	
+28-3	1120-1122	💕	NP[11]	EvÄ\_p[187]|EM\_bez[190]	
+
+#Text=@debwimmer 💗💗
+29-1	1123-1124	@	_	Ad\_@[191]	
+29-2	1124-1133	debwimmer	_	Ad\_@[191]	
+29-3	1134-1136	💗	_	Iteration[192]|EM\_k\_p[193]|CR[194]|EM\_bez[195]	
+29-4	1136-1138	💗	_	Iteration[192]|EM\_k\_p[193]|CR[194]|EM\_bez[196]	
+
+#Text=2 und 3 ☺️
+30-1	1139-1140	2	_	_	
+30-2	1141-1144	und	_	_	
+30-3	1145-1146	3	_	_	
+30-4	1147-1149	☺️	_	EM\_freu	
+
+#Text=@sofisieglingb 😁💛
+31-1	1150-1151	@	_	Ad\_@[197]	
+31-2	1151-1164	sofisieglingb	_	Ad\_@[197]	
+31-3	1165-1167	😁	_	EM\_k\_p[198]|CR[199]|EM\_freu[200]	
+31-4	1167-1169	💛	_	EM\_k\_p[198]|CR[199]|EM\_bez[201]	
+
+#Text=4😍
+32-1	1170-1171	4	_	EvÄ\_p[202]|EvO[203]	
+32-2	1171-1173	😍	_	EvÄ\_p[202]|EM\_bez[204]|EvB\_e\_kern[205]	
+
+#Text=@bella_pole_ 💛
+33-1	1174-1175	@	_	Ad\_@[206]	
+33-2	1175-1185	bella_pole	_	Ad\_@[206]	
+33-3	1185-1186	_	_	Ad\_@[206]	
+33-4	1187-1189	💛	_	EM\_bez[207]|EM\_k\_p[208]|CR[209]	
+
+#Text=Foto 3😍😍, aber alle anderen Fotos sind auch so so schön 👍🤩
+34-1	1190-1194	Foto	NP[12]	EvÄ\_p[210]|EvO[211]	
+34-2	1195-1196	3	NP[12]	EvÄ\_p[210]|EvO[211]	
+34-3	1196-1198	😍	NP[12]	EvÄ\_p[210]|Iteration[212]|EM\_bez[213]|EvB\_e\_kern[214]	
+34-4	1198-1200	😍	NP[12]	EvÄ\_p[210]|Iteration[212]|EM\_bez[215]|EvB\_e\_kern[216]	
+34-5	1200-1201	,	_	_	
+34-6	1202-1206	aber	_	EvÄ\_p[217]	
+34-7	1207-1211	alle	_	EvÄ\_p[217]|EvO[218]	
+34-8	1212-1219	anderen	_	EvÄ\_p[217]|EvO[218]	
+34-9	1220-1225	Fotos	_	EvÄ\_p[217]|EvO[218]	
+34-10	1226-1230	sind	_	EvÄ\_p[217]	
+34-11	1231-1235	auch	_	EvÄ\_p[217]	
+34-12	1236-1238	so	_	EvÄ\_p[217]|EvB\_l[219]|Iteration[220]	
+34-13	1239-1241	so	_	EvÄ\_p[217]|EvB\_l[219]|Iteration[220]	
+34-14	1242-1247	schön	_	EvÄ\_p[217]|EvB\_l[219]	
+34-15	1248-1250	👍	_	EvÄ\_p[217]|EvB\_e\_rand[221]	
+34-16	1250-1252	🤩	_	EvÄ\_p[217]|EvB\_e\_rand[222]	
+
+#Text=@carlotta69ify 🥰🥰🥰
+35-1	1253-1254	@	_	Ad\_@[223]	
+35-2	1254-1267	carlotta69ify	_	Ad\_@[223]	
+35-3	1268-1270	🥰	_	Iteration[224]|EM\_k\_p[225]|CR[226]|EM\_bez[227]	
+35-4	1270-1272	🥰	_	Iteration[224]|EM\_k\_p[225]|CR[226]|EM\_bez[228]	
+35-5	1272-1274	🥰	_	Iteration[224]|EM\_k\_p[225]|CR[226]|EM\_bez[229]	
+
+#Text=Alle süß 😍😍
+36-1	1275-1279	Alle	NP[13]	EvÄ\_p[230]|EvO[231]	
+36-2	1280-1283	süß	NP[13]	EvÄ\_p[230]|EvB\_l[232]	
+36-3	1284-1286	😍	NP[13]	EvÄ\_p[230]|Iteration[233]|EM\_bez[234]|EvB\_e\_rand[235]	
+36-4	1286-1288	😍	NP[13]	EvÄ\_p[230]|Iteration[233]|EM\_bez[236]|EvB\_e\_rand[237]	
+
+#Text=@mari.linni 💛
+37-1	1289-1290	@	_	Ad\_@[238]	
+37-2	1290-1300	mari.linni	_	Ad\_@[238]	
+37-3	1301-1303	💛	_	EM\_bez[239]|EM\_k\_p[240]|CR[241]	
+
+#Text=1&2♥️
+38-1	1304-1306	1&	_	_	
+38-2	1306-1307	2	_	_	
+38-3	1307-1309	♥️	_	EM\_bez	
+
+#Text=@christina_kireew_ 🧡🧡
+39-1	1310-1311	@	_	Ad\_@[242]	
+39-2	1311-1327	christina_kireew	_	Ad\_@[242]	
+39-3	1327-1328	_	_	Ad\_@[242]	
+39-4	1329-1331	🧡	_	Iteration[243]|EM\_k\_p[244]|CR[245]|EM\_bez[246]	
+39-5	1331-1333	🧡	_	Iteration[243]|EM\_k\_p[244]|CR[245]|EM\_bez[247]	
+
+#Text=Love ❤️ you both look so happy 😃
+40-1	1334-1338	Love	NP[14]	EvÄ\_p[248]|EvN\_p[249]	
+40-2	1339-1341	❤️	NP[14]	EvÄ\_p[248]|EM\_bez[250]	
+40-3	1342-1345	you	SIEHST[15]	FP\_p\_oW[251]	
+40-4	1346-1350	both	SIEHST[15]	FP\_p\_oW[251]	
+40-5	1351-1355	look	SIEHST[15]	FP\_p\_oW[251]	
+40-6	1356-1358	so	SIEHST[15]	FP\_p\_oW[251]	
+40-7	1359-1364	happy	SIEHST[15]	FP\_p\_oW[251]	
+40-8	1365-1367	😃	SIEHST[15]	FP\_p\_oW[251]|EM\_freu[252]	
+
+#Text=@annagubala ☺️🧡
+41-1	1368-1369	@	_	Ad\_@[253]	
+41-2	1369-1379	annagubala	_	Ad\_@[253]	
+41-3	1380-1382	☺️	_	EM\_k\_p[254]|CR[255]|EM\_freu[256]	
+41-4	1382-1384	🧡	_	EM\_k\_p[254]|CR[255]|EM\_bez[257]	
+
+#Text=4💕
+42-1	1385-1386	4	_	_	
+42-2	1386-1388	💕	_	EM\_bez	
+
+#Text=@soleil_eyesight 💗
+43-1	1389-1390	@	_	Ad\_@[258]	
+43-2	1390-1405	soleil_eyesight	_	Ad\_@[258]	
+43-3	1406-1408	💗	_	EM\_bez[259]|EM\_k\_p[260]|CR[261]	
+
+#Text=Alle Zucker! Aber am besten gefällt mir das, bei dem dein Kleid etwas Ähnlichkeit mit einem Weihnachtsbaum hat! 🎄🙈
+44-1	1409-1413	Alle	NP[16]	EvÄ\_p[262]|EvO[263]	
+44-2	1414-1420	Zucker	NP[16]	EvÄ\_p[262]|EvN\_p[264]	
+44-3	1420-1421	!	NP[16]	EvÄ\_p[262]	
+44-4	1422-1426	Aber	_	AS\_p[265]	
+44-5	1427-1429	am	_	AS\_p[265]	
+44-6	1430-1436	besten	_	AS\_p[265]	
+44-7	1437-1444	gefällt	_	AS\_p[265]	
+44-8	1445-1448	mir	_	AS\_p[265]	
+44-9	1449-1452	das	_	AS\_p[265]|ASO\_p[266]	
+44-10	1452-1453	,	_	AS\_p[265]|ASO\_p[266]	
+44-11	1454-1457	bei	_	AS\_p[265]|ASO\_p[266]	
+44-12	1458-1461	dem	_	AS\_p[265]|ASO\_p[266]	
+44-13	1462-1466	dein	_	AS\_p[265]|ASO\_p[266]	
+44-14	1467-1472	Kleid	_	AS\_p[265]|ASO\_p[266]	
+44-15	1473-1478	etwas	_	AS\_p[265]|ASO\_p[266]	
+44-16	1479-1490	Ähnlichkeit	_	AS\_p[265]|ASO\_p[266]	
+44-17	1491-1494	mit	_	AS\_p[265]|ASO\_p[266]	
+44-18	1495-1500	einem	_	AS\_p[265]|ASO\_p[266]	
+44-19	1501-1515	Weihnachtsbaum	_	AS\_p[265]|ASO\_p[266]	
+44-20	1516-1519	hat	_	AS\_p[265]|ASO\_p[266]	
+44-21	1519-1520	!	_	AS\_p[265]	
+44-22	1521-1523	🎄	_	AS\_p[265]|EM\_komfin[267]|EM\_b[268]	
+44-23	1523-1525	🙈	_	AS\_p[265]|EM\_komfin[267]|EM\_reM[269]	
+
+#Text=@evasofei 😁🎄👍🏼
+45-1	1526-1527	@	_	Ad\_@[270]	
+45-2	1527-1535	evasofei	_	Ad\_@[270]	
+45-3	1536-1538	😁	_	EvÄ\_p[271]|EM\_k\_p[272]|CR[273]|EM\_freu[274]	
+45-4	1538-1540	🎄	_	EvÄ\_p[271]|EM\_k\_p[272]|CR[273]|EM\_ins[275]	
+45-5	1540-1542	👍	_	EvÄ\_p[271]|EM\_k\_p[272]|CR[273]|EvB\_e\_kern[276]	
+45-6	1542-1544	🏼	_	EvÄ\_p[271]|EM\_k\_p[272]|CR[273]|EvB\_e\_kern[276]	
+
+#Text=Alle total schön 😍
+46-1	1545-1549	Alle	_	EvÄ\_p[277]|EvO[278]	
+46-2	1550-1555	total	_	EvÄ\_p[277]|EvB\_l[279]	
+46-3	1556-1561	schön	_	EvÄ\_p[277]|EvB\_l[279]	
+46-4	1562-1564	😍	_	EvÄ\_p[277]|EM\_bez[280]|EvB\_e\_rand[281]	
+
+#Text=@chanaluana 🥰🧡
+47-1	1565-1566	@	_	Ad\_@[282]	
+47-2	1566-1576	chanaluana	_	Ad\_@[282]	
+47-3	1577-1579	🥰	_	EM\_k\_p[283]|CR[284]|EM\_bez[285]	
+47-4	1579-1581	🧡	_	EM\_k\_p[283]|CR[284]|EM\_bez[286]	
+
+#Text=Ihr seid so ein tolles Paar😍 Nr 3 ist mein Favorit 😍
+48-1	1582-1585	Ihr	_	EvÄ\_p[287]|EvO[288]	
+48-2	1586-1590	seid	_	EvÄ\_p[287]	
+48-3	1591-1593	so	_	EvÄ\_p[287]|EvÄ\_p[289]|EvB\_l[290]	
+48-4	1594-1597	ein	_	EvÄ\_p[287]|EvÄ\_p[289]|EvB\_l[290]	
+48-5	1598-1604	tolles	_	EvÄ\_p[287]|EvÄ\_p[289]|EvB\_l[290]|EvB\_l[291]	
+48-6	1605-1609	Paar	_	EvÄ\_p[287]|EvÄ\_p[289]|EvB\_l[290]|EvO[292]	
+48-7	1609-1611	😍	_	EvÄ\_p[287]|EM\_bez[293]|EvB\_e\_rand[294]	
+48-8	1612-1614	Nr	_	EvÄ\_p[295]|EvO[296]	
+48-9	1615-1616	3	_	EvÄ\_p[295]|EvO[296]	
+48-10	1617-1620	ist	_	EvÄ\_p[295]	
+48-11	1621-1625	mein	_	EvÄ\_p[295]|EvB\_l[297]	
+48-12	1626-1633	Favorit	_	EvÄ\_p[295]|EvB\_l[297]|EvN\_p[298]	
+48-13	1634-1636	😍	_	EvÄ\_p[295]|EM\_bez[299]|EvB\_e\_rand[300]	
+
+#Text=4💜
+49-1	1637-1638	4	_	_	
+49-2	1638-1640	💜	_	EM\_bez	
+
+#Text=Mein Mann und ich waren heute auch bei @kaufdichgluecklich nach schicken Outfits gucken und ich muss sagen, dass ich als Schwangere auch viele Röcke oder Kleider finde, die mir noch super passen! Das finde ich toll. Dann kann ich die Outfits nach der Geburt nämlich genauso schön weiter tragen!
+50-1	1641-1645	Mein	_	_	
+50-2	1646-1650	Mann	_	_	
+50-3	1651-1654	und	_	_	
+50-4	1655-1658	ich	_	_	
+50-5	1659-1664	waren	_	_	
+50-6	1665-1670	heute	_	_	
+50-7	1671-1675	auch	_	_	
+50-8	1676-1679	bei	_	_	
+50-9	1680-1681	@	_	Ad\_@[301]	
+50-10	1681-1699	kaufdichgluecklich	_	Ad\_@[301]	
+50-11	1700-1704	nach	_	_	
+50-12	1705-1713	schicken	_	EvÄ\_p[302]|EvB\_l[303]	
+50-13	1714-1721	Outfits	_	EvÄ\_p[302]|EvO[304]	
+50-14	1722-1728	gucken	_	_	
+50-15	1729-1732	und	_	_	
+50-16	1733-1736	ich	_	_	
+50-17	1737-1741	muss	_	_	
+50-18	1742-1747	sagen	_	_	
+50-19	1747-1748	,	_	_	
+50-20	1749-1753	dass	_	_	
+50-21	1754-1757	ich	_	_	
+50-22	1758-1761	als	_	_	
+50-23	1762-1772	Schwangere	_	_	
+50-24	1773-1777	auch	_	_	
+50-25	1778-1783	viele	_	_	
+50-26	1784-1789	Röcke	_	_	
+50-27	1790-1794	oder	_	_	
+50-28	1795-1802	Kleider	_	_	
+50-29	1803-1808	finde	_	_	
+50-30	1808-1809	,	_	_	
+50-31	1810-1813	die	_	_	
+50-32	1814-1817	mir	_	_	
+50-33	1818-1822	noch	_	_	
+50-34	1823-1828	super	_	_	
+50-35	1829-1835	passen	_	_	
+50-36	1835-1836	!	_	_	
+50-37	1837-1840	Das	_	AS\_p[305]|ASO\_p[306]	
+50-38	1841-1846	finde	_	AS\_p[305]	
+50-39	1847-1850	ich	_	AS\_p[305]	
+50-40	1851-1855	toll	_	AS\_p[305]	
+50-41	1855-1856	.	_	AS\_p[305]	
+50-42	1857-1861	Dann	_	_	
+50-43	1862-1866	kann	_	_	
+50-44	1867-1870	ich	_	_	
+50-45	1871-1874	die	_	_	
+50-46	1875-1882	Outfits	_	_	
+50-47	1883-1887	nach	_	_	
+50-48	1888-1891	der	_	_	
+50-49	1892-1898	Geburt	_	_	
+50-50	1899-1906	nämlich	_	_	
+50-51	1907-1914	genauso	_	_	
+50-52	1915-1920	schön	_	_	
+50-53	1921-1927	weiter	_	_	
+50-54	1928-1934	tragen	_	_	
+50-55	1934-1935	!	_	_	
+
+#Text=@i.sa_red Wie toll!!! 😍 Und genau das finde ich auch. Voll schön, dass du auch so happy mit den Sachen bist! 💛
+51-1	1936-1937	@	_	Ad\_@[307]	
+51-2	1937-1945	i.sa_red	_	Ad\_@[307]	
+51-3	1946-1949	Wie	Ex\_wie[17]	EvÄ\_p[308]|EvB\_l[309]	
+51-4	1950-1954	toll	Ex\_wie[17]	EvÄ\_p[308]|EvB\_l[309]	
+51-5	1954-1955	!	Ex\_wie[17]	EvÄ\_p[308]|Iteration[310]	
+51-6	1955-1956	!	Ex\_wie[17]	EvÄ\_p[308]|Iteration[310]	
+51-7	1956-1957	!	Ex\_wie[17]	EvÄ\_p[308]|Iteration[310]	
+51-8	1958-1960	😍	Ex\_wie[17]	EvÄ\_p[308]|EM\_bez[311]|EvB\_e\_rand[312]	
+51-9	1961-1964	Und	_	Al\_ü\_s[313]	
+51-10	1965-1970	genau	_	Al\_ü\_s[313]	
+51-11	1971-1974	das	_	Al\_ü\_s[313]	
+51-12	1975-1980	finde	_	Al\_ü\_s[313]	
+51-13	1981-1984	ich	_	Al\_ü\_s[313]	
+51-14	1985-1989	auch	_	Al\_ü\_s[313]	
+51-15	1989-1990	.	_	Al\_ü\_s[313]	
+51-16	1991-1995	Voll	AdjP\_subj[18]	EvÄ\_p[314]|EvB\_l[315]	
+51-17	1996-2001	schön	AdjP\_subj[18]	EvÄ\_p[314]|EvB\_l[315]	
+51-18	2001-2002	,	AdjP\_subj[18]	EvÄ\_p[314]	
+51-19	2003-2007	dass	AdjP\_subj[18]	EvÄ\_p[314]|EvO[316]	
+51-20	2008-2010	du	AdjP\_subj[18]	EvÄ\_p[314]|EvO[316]|EvÄ\_p[317]|EvO[318]	
+51-21	2011-2015	auch	AdjP\_subj[18]	EvÄ\_p[314]|EvO[316]|EvÄ\_p[317]|EvB\_l[319]	
+51-22	2016-2018	so	AdjP\_subj[18]	EvÄ\_p[314]|EvO[316]|EvÄ\_p[317]|EvB\_l[319]	
+51-23	2019-2024	happy	AdjP\_subj[18]	EvÄ\_p[314]|EvO[316]|EvÄ\_p[317]|EvB\_l[319]	
+51-24	2025-2028	mit	AdjP\_subj[18]	EvÄ\_p[314]|EvO[316]|EvÄ\_p[317]|EvB\_l[319]	
+51-25	2029-2032	den	AdjP\_subj[18]	EvÄ\_p[314]|EvO[316]|EvÄ\_p[317]|EvB\_l[319]	
+51-26	2033-2039	Sachen	AdjP\_subj[18]	EvÄ\_p[314]|EvO[316]|EvÄ\_p[317]|EvB\_l[319]	
+51-27	2040-2044	bist	AdjP\_subj[18]	EvÄ\_p[314]|EvO[316]|EvÄ\_p[317]	
+51-28	2044-2045	!	AdjP\_subj[18]	EvÄ\_p[314]	
+51-29	2046-2048	💛	AdjP\_subj[18]	EvÄ\_p[314]|EM\_bez[320]	
+
+#Text=So lovely 😍😍
+52-1	2049-2051	So	AdjP[19]	EvÄ\_p[321]|EvB\_l[322]	
+52-2	2052-2058	lovely	AdjP[19]	EvÄ\_p[321]|EvB\_l[322]	
+52-3	2059-2061	😍	AdjP[19]	EvÄ\_p[321]|Iteration[323]|EM\_bez[324]|EvB\_e\_rand[325]	
+52-4	2061-2063	😍	AdjP[19]	EvÄ\_p[321]|Iteration[323]|EM\_bez[326]|EvB\_e\_rand[327]	
+
+#Text=Da kann man sich ja gar nicht entscheiden 🤍 aber 7
+53-1	2064-2066	Da	_	_	
+53-2	2067-2071	kann	_	_	
+53-3	2072-2075	man	_	_	
+53-4	2076-2080	sich	_	_	
+53-5	2081-2083	ja	_	_	
+53-6	2084-2087	gar	_	_	
+53-7	2088-2093	nicht	_	_	
+53-8	2094-2105	entscheiden	_	_	
+53-9	2106-2108	🤍	_	EM\_bez	
+53-10	2109-2113	aber	_	_	
+53-11	2114-2115	7	_	_	
+
+#Text=Ihr zwei 😻
+54-1	2116-2119	Ihr	NP[20]	EvÄ\_p[328]|EvO[329]	
+54-2	2120-2124	zwei	NP[20]	EvÄ\_p[328]|EvO[329]	
+54-3	2125-2127	😻	NP[20]	EvÄ\_p[328]|EM\_bez[330]|EvB\_e\_kern[331]	
+
+#Text=Alle sind total schön 😊✨
+55-1	2128-2132	Alle	_	EvÄ\_p[332]|EvO[333]	
+55-2	2133-2137	sind	_	EvÄ\_p[332]	
+55-3	2138-2143	total	_	EvÄ\_p[332]|EvB\_l[334]	
+55-4	2144-2149	schön	_	EvÄ\_p[332]|EvB\_l[334]	
+55-5	2150-2152	😊	_	EvÄ\_p[332]|EM\_freu[335]	
+55-6	2152-2153	✨	_	EvÄ\_p[332]|EM\_schm[336]	
+
+#Text=💓😍
+56-1	2154-2156	💓	_	EvÄ\_p[337]|EM\_k\_p[338]|EM\_bez[339]	
+56-2	2156-2158	😍	_	EvÄ\_p[337]|EM\_k\_p[338]|EM\_bez[340]|EvB\_e\_kern[341]	
+
+#Text=Ihr seht so wunderschön aus! ☺️ Bild 2 & 3 😍
+57-1	2159-2162	Ihr	SIEHST[21]	FP\_p\_oW[342]	
+57-2	2163-2167	seht	SIEHST[21]	FP\_p\_oW[342]	
+57-3	2168-2170	so	SIEHST[21]	FP\_p\_oW[342]	
+57-4	2171-2182	wunderschön	SIEHST[21]	FP\_p\_oW[342]	
+57-5	2183-2186	aus	SIEHST[21]	FP\_p\_oW[342]	
+57-6	2186-2187	!	SIEHST[21]	FP\_p\_oW[342]	
+57-7	2188-2190	☺️	SIEHST[21]	FP\_p\_oW[342]|EM\_freu[343]	
+57-8	2191-2195	Bild	NP[22]	EvÄ\_p[344]|EvO[345]	
+57-9	2196-2197	2	NP[22]	EvÄ\_p[344]|EvO[345]	
+57-10	2198-2199	&	NP[22]	EvÄ\_p[344]|EvO[345]	
+57-11	2200-2201	3	NP[22]	EvÄ\_p[344]|EvO[345]	
+57-12	2202-2204	😍	NP[22]	EvÄ\_p[344]|EM\_bez[346]|EvB\_e\_kern[347]	
+
+#Text=2 😍
+58-1	2205-2206	2	_	EvÄ\_p[348]|EvO[349]	
+58-2	2207-2209	😍	_	EvÄ\_p[348]|EM\_bez[350]|EvB\_e\_kern[351]	
+
+#Text=😍
+59-1	2210-2212	😍	_	EM\_bez[352]|EvB\_e\_kern[353]|EvÄ\_p[354]|EM\_k\_p[355]	
+
+#Text=3 und 4 lieb ich am meisten 😍
+60-1	2213-2214	3	_	AS\_p[356]|ASO\_p[357]	
+60-2	2215-2218	und	_	AS\_p[356]|ASO\_p[357]	
+60-3	2219-2220	4	_	AS\_p[356]|ASO\_p[357]	
+60-4	2221-2225	lieb	_	AS\_p[356]	
+60-5	2226-2229	ich	_	AS\_p[356]	
+60-6	2230-2232	am	_	AS\_p[356]	
+60-7	2233-2240	meisten	_	AS\_p[356]	
+60-8	2241-2243	😍	_	AS\_p[356]|EM\_bez[358]|EvB\_e\_kern[359]|EvÄ\_p[360]	
+
+#Text=Sind alle so toll 😍
+61-1	2244-2248	Sind	_	EvÄ\_p[361]	
+61-2	2249-2253	alle	_	EvÄ\_p[361]|EvO[362]	
+61-3	2254-2256	so	_	EvÄ\_p[361]|EvB\_l[363]	
+61-4	2257-2261	toll	_	EvÄ\_p[361]|EvB\_l[363]	
+61-5	2262-2264	😍	_	EvÄ\_p[361]|EM\_bez[364]|EvB\_e\_kern[365]	
+
+#Text=2😍
+62-1	2265-2266	2	_	EvÄ\_p[366]|EvO[367]	
+62-2	2266-2268	😍	_	EvÄ\_p[366]|EM\_bez[368]|EvB\_e\_kern[369]	
+
+#Text=4😍👌
+63-1	2269-2270	4	_	EvÄ\_p[370]|EvO[371]	
+63-2	2270-2272	😍	_	EvÄ\_p[370]|EM\_bez[372]|EvB\_e\_kern[373]	
+63-3	2272-2274	👌	_	EvÄ\_p[370]|EvB\_e\_kern[374]	
+
+#Text=Nummer 4 natürlich ❤️
+64-1	2275-2281	Nummer	NP[23]	_	
+64-2	2282-2283	4	NP[23]	_	
+64-3	2284-2293	natürlich	NP[23]	_	
+64-4	2294-2296	❤️	NP[23]	EM\_bez	
+
+#Text=Ihr zwei❤️
+65-1	2297-2300	Ihr	_	EvÄ\_p[375]|EvO[376]	
+65-2	2301-2305	zwei	_	EvÄ\_p[375]|EvO[376]	
+65-3	2305-2307	❤️	_	EvÄ\_p[375]|EM\_bez[377]|EvB\_e\_kern[378]	
+
+#Text=4🙌
+66-1	2308-2309	4	_	_	
+66-2	2309-2311	🙌	_	EM\_reG	
+
+#Text=Du siehst so glücklich aus! 😍
+67-1	2312-2314	Du	SIEHST[24]	FP\_p\_oW[379]	
+67-2	2315-2321	siehst	SIEHST[24]	FP\_p\_oW[379]	
+67-3	2322-2324	so	SIEHST[24]	FP\_p\_oW[379]	
+67-4	2325-2334	glücklich	SIEHST[24]	FP\_p\_oW[379]	
+67-5	2335-2338	aus	SIEHST[24]	FP\_p\_oW[379]	
+67-6	2338-2339	!	SIEHST[24]	FP\_p\_oW[379]	
+67-7	2340-2342	😍	SIEHST[24]	FP\_p\_oW[379]|EM\_bez[380]|EvB\_e\_kern[381]|EvÄ\_p[382]	
+
+#Text=3😍
+68-1	2343-2344	3	_	EvÄ\_p[383]|EvO[384]	
+68-2	2344-2346	😍	_	EvÄ\_p[383]|EM\_bez[385]|EvB\_e\_kern[386]	
+
+#Text=Ihr zwei 🧡✨🌿
+69-1	2347-2350	Ihr	_	EvÄ\_p[387]|EvO[388]	
+69-2	2351-2355	zwei	_	EvÄ\_p[387]|EvO[388]	
+69-3	2356-2358	🧡	_	EvÄ\_p[387]|EM\_bez[389]|EvB\_e\_kern[390]	
+69-4	2358-2359	✨	_	EvÄ\_p[387]|EM\_schm[391]	
+69-5	2359-2361	🌿	_	EvÄ\_p[387]|EM\_schm[392]	
+
+#Text=Ihr zwei seid so ein hübsches Paar. Und ja, die Outfit-Zusammenstellung ist dir echt gut gelungen, liebe @jesswayoflife . Ich liebe solche Ziegelrot- und Moosgrüntöne zusammen! Und ich find´s auch richtig schön, sich an Weihnachten hübsch zu machen. Das gehört für mich irgendwie dazu. Seid gesegnet, ihr zwei!
+70-1	2362-2365	Ihr	_	EvÄ\_p[393]|EvO[394]	
+70-2	2366-2370	zwei	_	EvÄ\_p[393]|EvO[394]	
+70-3	2371-2375	seid	_	EvÄ\_p[393]	
+70-4	2376-2378	so	_	EvÄ\_p[393]|EvÄ\_p[395]|EvB\_l[396]	
+70-5	2379-2382	ein	_	EvÄ\_p[393]|EvÄ\_p[395]|EvB\_l[396]	
+70-6	2383-2391	hübsches	_	EvÄ\_p[393]|EvÄ\_p[395]|EvB\_l[396]|EvB\_l[397]	
+70-7	2392-2396	Paar	_	EvÄ\_p[393]|EvÄ\_p[395]|EvB\_l[396]|EvO[398]	
+70-8	2396-2397	.	_	EvÄ\_p[393]	
+70-9	2398-2401	Und	_	Al\_ü\_o[399]	
+70-10	2402-2404	ja	_	Al\_ü\_o[399]	
+70-11	2404-2405	,	_	_	
+70-12	2406-2409	die	_	EvÄ\_p[400]|EvO[401]	
+70-13	2410-2433	Outfit-Zusammenstellung	_	EvÄ\_p[400]|EvO[401]	
+70-14	2434-2437	ist	_	EvÄ\_p[400]	
+70-15	2438-2441	dir	_	EvÄ\_p[400]|EvB\_l[402]	
+70-16	2442-2446	echt	_	EvÄ\_p[400]|EvB\_l[402]	
+70-17	2447-2450	gut	_	EvÄ\_p[400]|EvB\_l[402]	
+70-18	2451-2459	gelungen	_	EvÄ\_p[400]|EvB\_l[402]	
+70-19	2459-2460	,	_	_	
+70-20	2461-2466	liebe	_	Ad\_l[403]	
+70-21	2467-2468	@	_	Ad\_l[403]|Ad\_@[404]	
+70-22	2468-2481	jesswayoflife	_	Ad\_l[403]|Ad\_@[404]	
+70-23	2482-2483	.	_	_	
+70-24	2484-2487	Ich	_	AS\_p[405]	
+70-25	2488-2493	liebe	_	AS\_p[405]	
+70-26	2494-2500	solche	_	AS\_p[405]|ASO\_p[406]	
+70-27	2501-2510	Ziegelrot	_	AS\_p[405]|ASO\_p[406]	
+70-28	2510-2511	-	_	AS\_p[405]|ASO\_p[406]	
+70-29	2512-2515	und	_	AS\_p[405]|ASO\_p[406]	
+70-30	2516-2528	Moosgrüntöne	_	AS\_p[405]|ASO\_p[406]	
+70-31	2529-2537	zusammen	_	AS\_p[405]|ASO\_p[406]	
+70-32	2537-2538	!	_	AS\_p[405]	
+70-33	2539-2542	Und	_	AS\_p[407]	
+70-34	2543-2546	ich	_	AS\_p[407]	
+70-35	2547-2551	find	_	AS\_p[407]	
+70-36	2551-2552	´	_	AS\_p[407]	
+70-37	2552-2553	s	_	AS\_p[407]	
+70-38	2554-2558	auch	_	AS\_p[407]	
+70-39	2559-2566	richtig	_	AS\_p[407]	
+70-40	2567-2572	schön	_	AS\_p[407]	
+70-41	2572-2573	,	_	AS\_p[407]	
+70-42	2574-2578	sich	_	AS\_p[407]|ASO\_p[408]	
+70-43	2579-2581	an	_	AS\_p[407]|ASO\_p[408]	
+70-44	2582-2593	Weihnachten	_	AS\_p[407]|ASO\_p[408]	
+70-45	2594-2600	hübsch	_	AS\_p[407]|ASO\_p[408]	
+70-46	2601-2603	zu	_	AS\_p[407]|ASO\_p[408]	
+70-47	2604-2610	machen	_	AS\_p[407]|ASO\_p[408]	
+70-48	2610-2611	.	_	AS\_p[407]	
+70-49	2612-2615	Das	_	_	
+70-50	2616-2622	gehört	_	_	
+70-51	2623-2626	für	_	_	
+70-52	2627-2631	mich	_	_	
+70-53	2632-2641	irgendwie	_	_	
+70-54	2642-2646	dazu	_	_	
+70-55	2646-2647	.	_	_	
+70-56	2648-2652	Seid	PP\_Ä[25]	SUP\_Wü[409]	
+70-57	2653-2661	gesegnet	PP\_Ä[25]	SUP\_Wü[409]	
+70-58	2661-2662	,	PP\_Ä[25]	SUP\_Wü[409]	
+70-59	2663-2666	ihr	PP\_Ä[25]|PP\_E[26]	SUP\_Wü[409]	
+70-60	2667-2671	zwei	PP\_Ä[25]|PP\_E[26]	SUP\_Wü[409]	
+70-61	2671-2672	!	PP\_Ä[25]	SUP\_Wü[409]	
+
+#Text=Ich liebe Bild Nummer 4 💕
+71-1	2673-2676	Ich	_	AS\_p[410]	
+71-2	2677-2682	liebe	_	AS\_p[410]	
+71-3	2683-2687	Bild	_	AS\_p[410]|ASO\_p[411]	
+71-4	2688-2694	Nummer	_	AS\_p[410]|ASO\_p[411]	
+71-5	2695-2696	4	_	AS\_p[410]|ASO\_p[411]	
+71-6	2697-2699	💕	_	AS\_p[410]|EM\_bez[412]	
+
+#Text=check your dm 😘
+72-1	2700-2705	check	_	Meta\_TM[413]	
+72-2	2706-2710	your	_	Meta\_TM[413]	
+72-3	2711-2713	dm	_	Meta\_TM[413]	
+72-4	2714-2716	😘	_	Meta\_TM[413]|EM\_bez[414]	
+
+#Text=Ohhhh😍🙏🏻
+73-1	2717-2722	Ohhhh	In[27]	EvÄ\_p[415]|EvB\_l[416]|Iteration[417]	
+73-2	2722-2724	😍	In[27]	EvÄ\_p[415]|EM\_bez[418]|EvB\_e\_rand[419]	
+73-3	2724-2726	🙏	In[27]	EvÄ\_p[415]|EM\_dank[420]	
+73-4	2726-2728	🏻	In[27]	EvÄ\_p[415]|EM\_dank[420]	
+
+#Text=2 ❤️
+74-1	2729-2730	2	_	_	
+74-2	2731-2733	❤️	_	EM\_bez	
+
+#Text=1. 😍✨
+75-1	2734-2735	1	_	EvÄ\_p[421]|EvO[422]	
+75-2	2735-2736	.	_	EvÄ\_p[421]|EvO[422]	
+75-3	2737-2739	😍	_	EvÄ\_p[421]|EM\_bez[423]|EvB\_e\_kern[424]	
+75-4	2739-2740	✨	_	EvÄ\_p[421]|EM\_schm[425]	
+
+#Text=Ich mag das sechste Foto am liebsten. Dieser stolze Mamablick und die Kugel sind so schön 😍
+76-1	2741-2744	Ich	_	AS\_p[426]	
+76-2	2745-2748	mag	_	AS\_p[426]	
+76-3	2749-2752	das	_	AS\_p[426]|ASO\_p[427]	
+76-4	2753-2760	sechste	_	AS\_p[426]|ASO\_p[427]	
+76-5	2761-2765	Foto	_	AS\_p[426]|ASO\_p[427]	
+76-6	2766-2768	am	_	AS\_p[426]	
+76-7	2769-2777	liebsten	_	AS\_p[426]	
+76-8	2777-2778	.	_	AS\_p[426]	
+76-9	2779-2785	Dieser	_	EvÄ\_p[428]|EvÄ\_p[429]|EvO[430]	
+76-10	2786-2792	stolze	_	EvÄ\_p[428]|EvÄ\_p[429]|EvO[430]|EvB\_l[431]	
+76-11	2793-2802	Mamablick	_	EvÄ\_p[428]|EvÄ\_p[429]|EvO[430]|EvO[432]	
+76-12	2803-2806	und	_	EvÄ\_p[428]	
+76-13	2807-2810	die	_	EvÄ\_p[428]|EvO[433]	
+76-14	2811-2816	Kugel	_	EvÄ\_p[428]|EvO[433]	
+76-15	2817-2821	sind	_	EvÄ\_p[428]	
+76-16	2822-2824	so	_	EvÄ\_p[428]|EvB\_l[434]	
+76-17	2825-2830	schön	_	EvÄ\_p[428]|EvB\_l[434]	
+76-18	2831-2833	😍	_	EvÄ\_p[428]|EM\_bez[435]|EvB\_e\_rand[436]|EM\_komfin[437]	
+
+#Text=Alle schön, aber die 3 gefällt mir am besten 💚
+77-1	2834-2838	Alle	_	EvÄ\_p[438]|EvO[439]	
+77-2	2839-2844	schön	_	EvÄ\_p[438]|EvB\_l[440]	
+77-3	2844-2845	,	_	_	
+77-4	2846-2850	aber	_	AS\_p[441]	
+77-5	2851-2854	die	_	AS\_p[441]|ASO\_p[442]	
+77-6	2855-2856	3	_	AS\_p[441]|ASO\_p[442]	
+77-7	2857-2864	gefällt	_	AS\_p[441]	
+77-8	2865-2868	mir	_	AS\_p[441]	
+77-9	2869-2871	am	_	AS\_p[441]	
+77-10	2872-2878	besten	_	AS\_p[441]	
+77-11	2879-2881	💚	_	AS\_p[441]|EM\_bez[443]	
+
+#Text=3☺️❤️ aber find alle toll😁
+78-1	2882-2883	3	_	_	
+78-2	2883-2885	☺️	_	EM\_freu	
+78-3	2885-2887	❤️	_	EM\_bez	
+78-4	2888-2892	aber	_	AS\_p[444]	
+78-5	2893-2897	find	_	AS\_p[444]	
+78-6	2898-2902	alle	_	AS\_p[444]|ASO\_p[445]	
+78-7	2903-2907	toll	_	AS\_p[444]	
+78-8	2907-2909	😁	_	AS\_p[444]|EM\_freu[446]	
+
+#Text=Ihr seht beide einfach toll aus 😍✨🤗
+79-1	2910-2913	Ihr	SIEHST[28]	FP\_p\_oW[447]	
+79-2	2914-2918	seht	SIEHST[28]	FP\_p\_oW[447]	
+79-3	2919-2924	beide	SIEHST[28]	FP\_p\_oW[447]	
+79-4	2925-2932	einfach	SIEHST[28]	FP\_p\_oW[447]	
+79-5	2933-2937	toll	SIEHST[28]	FP\_p\_oW[447]	
+79-6	2938-2941	aus	SIEHST[28]	FP\_p\_oW[447]	
+79-7	2942-2944	😍	SIEHST[28]	FP\_p\_oW[447]|EvÄ\_p[448]|EM\_bez[449]|EvB\_e\_kern[450]	
+79-8	2944-2945	✨	SIEHST[28]	FP\_p\_oW[447]|EvÄ\_p[448]|EM\_schm[451]	
+79-9	2945-2947	🤗	SIEHST[28]	FP\_p\_oW[447]|EvÄ\_p[448]|EM\_freu[452]	
+
+#Text=3 & 4 💕
+80-1	2948-2949	3	_	_	
+80-2	2950-2951	&	_	_	
+80-3	2952-2953	4	_	_	
+80-4	2954-2956	💕	_	EM\_bez	
+
+#Text=Oh die Bilder sind so so schön 😍✨
+81-1	2957-2959	Oh	In	EvÄ\_p[453]	
+81-2	2960-2963	die	_	EvÄ\_p[453]|EvO[454]	
+81-3	2964-2970	Bilder	_	EvÄ\_p[453]|EvO[454]	
+81-4	2971-2975	sind	_	EvÄ\_p[453]	
+81-5	2976-2978	so	_	EvÄ\_p[453]|EvB\_l[455]|Iteration[456]	
+81-6	2979-2981	so	_	EvÄ\_p[453]|EvB\_l[455]|Iteration[456]	
+81-7	2982-2987	schön	_	EvÄ\_p[453]|EvB\_l[455]	
+81-8	2988-2990	😍	_	EvÄ\_p[453]|EM\_bez[457]|EvB\_e\_rand[458]	
+81-9	2990-2991	✨	_	EvÄ\_p[453]|EM\_schm[459]	
+
+#Text=@jesswayoflife sehr schön die Bilder 😊
+82-1	2992-2993	@	_	Ad\_@[460]	
+82-2	2993-3006	jesswayoflife	_	Ad\_@[460]	
+82-3	3007-3011	sehr	PP\_Ä[29]	EvÄ\_p[461]|EvB\_l[462]	
+82-4	3012-3017	schön	PP\_Ä[29]	EvÄ\_p[461]|EvB\_l[462]	
+82-5	3018-3021	die	PP\_Ä[29]|PP\_E[30]	EvÄ\_p[461]|EvO[463]	
+82-6	3022-3028	Bilder	PP\_Ä[29]|PP\_E[30]	EvÄ\_p[461]|EvO[463]	
+82-7	3029-3031	😊	PP\_Ä[29]	EvÄ\_p[461]|EM\_freu[464]	
+
+#Text=3, 4, 6🌹🌹🌹
+83-1	3032-3033	3	_	_	
+83-2	3033-3034	,	_	_	
+83-3	3035-3036	4	_	_	
+83-4	3036-3037	,	_	_	
+83-5	3038-3039	6	_	_	
+83-6	3039-3041	🌹	_	Iteration[465]|EM\_schm[466]	
+83-7	3041-3043	🌹	_	Iteration[465]|EM\_schm[467]	
+83-8	3043-3045	🌹	_	Iteration[465]|EM\_schm[468]	
+
+#Text=Schauen alle toll aus! 🤩👍🏻🧡
+84-1	3046-3053	Schauen	SIEHT[31]	OP\_p\_oW[469]	
+84-2	3054-3058	alle	SIEHT[31]	OP\_p\_oW[469]	
+84-3	3059-3063	toll	SIEHT[31]	OP\_p\_oW[469]	
+84-4	3064-3067	aus	SIEHT[31]	OP\_p\_oW[469]	
+84-5	3067-3068	!	SIEHT[31]	OP\_p\_oW[469]	
+84-6	3069-3071	🤩	SIEHT[31]	OP\_p\_oW[469]|EvÄ\_p[470]|EvB\_e\_kern[471]	
+84-7	3071-3073	👍	SIEHT[31]	OP\_p\_oW[469]|EvÄ\_p[470]|EvB\_e\_kern[472]	
+84-8	3073-3075	🏻	SIEHT[31]	OP\_p\_oW[469]|EvÄ\_p[470]|EvB\_e\_kern[472]	
+84-9	3075-3077	🧡	SIEHT[31]	OP\_p\_oW[469]|EvÄ\_p[470]|EM\_bez[473]	
+
+#Text=ich finde das Bild Nummer 4 meeega schön 😍 Aber auch die anderen ✨😍😍
+85-1	3078-3081	ich	_	AS\_p[474]	
+85-2	3082-3087	finde	_	AS\_p[474]	
+85-3	3088-3091	das	_	AS\_p[474]|ASO\_p[475]	
+85-4	3092-3096	Bild	_	AS\_p[474]|ASO\_p[475]	
+85-5	3097-3103	Nummer	_	AS\_p[474]|ASO\_p[475]	
+85-6	3104-3105	4	_	AS\_p[474]|ASO\_p[475]	
+85-7	3106-3112	meeega	_	AS\_p[474]|Iteration[476]	
+85-8	3113-3118	schön	_	AS\_p[474]	
+85-9	3119-3121	😍	_	AS\_p[474]|EM\_bez[477]|EvB\_e\_kern[478]|EvÄ\_p[479]	
+85-10	3122-3126	Aber	_	AS\_p[480]	
+85-11	3127-3131	auch	_	AS\_p[480]	
+85-12	3132-3135	die	_	AS\_p[480]|ASO\_p[481]	
+85-13	3136-3143	anderen	_	AS\_p[480]|ASO\_p[481]	
+85-14	3144-3145	✨	_	AS\_p[480]|EvÄ\_p[482]|EM\_schm[483]	
+85-15	3145-3147	😍	_	AS\_p[480]|EvÄ\_p[482]|Iteration[484]|EM\_bez[485]|EvB\_e\_kern[486]	
+85-16	3147-3149	😍	_	AS\_p[480]|EvÄ\_p[482]|Iteration[484]|EM\_bez[487]|EvB\_e\_kern[488]	
+
+#Text=2,4,8 🤩
+86-1	3150-3155	2,4,8	_	EvÄ\_p[489]|EvO[490]	
+86-2	3156-3158	🤩	_	EvÄ\_p[489]|EvB\_e\_kern[491]	
+
+#Text=ach wie süß ihr seid 😍
+87-1	3159-3162	ach	In	EvÄ\_p[492]	
+87-2	3163-3166	wie	Ex\_wie[32]	EvÄ\_p[492]|EvB\_l[493]	
+87-3	3167-3170	süß	Ex\_wie[32]	EvÄ\_p[492]|EvB\_l[493]	
+87-4	3171-3174	ihr	Ex\_wie[32]	EvÄ\_p[492]|EvO[494]	
+87-5	3175-3179	seid	Ex\_wie[32]	EvÄ\_p[492]	
+87-6	3180-3182	😍	Ex\_wie[32]	EvÄ\_p[492]|EM\_bez[495]|EvB\_e\_rand[496]	
+
+#Text=Alle sind zauberhaft 💕
+88-1	3183-3187	Alle	_	EvÄ\_p[497]|EvO[498]	
+88-2	3188-3192	sind	_	EvÄ\_p[497]	
+88-3	3193-3203	zauberhaft	_	EvÄ\_p[497]|EvB\_l[499]	
+88-4	3204-3206	💕	_	EvÄ\_p[497]|EM\_bez[500]	
+
+#Text=1 🔥
+89-1	3207-3208	1	_	EvÄ\_p[501]|EvO[502]	
+89-2	3209-3211	🔥	_	EvÄ\_p[501]|EvB\_e\_kern[503]	
+
+#Text=Your photography are so beautiful 😍😍 how you made it? ❤️
+90-1	3212-3216	Your	_	EvÄ\_p[504]|EvO[505]	
+90-2	3217-3228	photography	_	EvÄ\_p[504]|EvO[505]	
+90-3	3229-3232	are	_	EvÄ\_p[504]	
+90-4	3233-3235	so	_	EvÄ\_p[504]|EvB\_l[506]	
+90-5	3236-3245	beautiful	_	EvÄ\_p[504]|EvB\_l[506]	
+90-6	3246-3248	😍	_	EvÄ\_p[504]|Iteration[507]|EM\_bez[508]|EvB\_e\_rand[509]	
+90-7	3248-3250	😍	_	EvÄ\_p[504]|Iteration[507]|EM\_bez[510]|EvB\_e\_rand[511]	
+90-8	3251-3254	how	_	_	
+90-9	3255-3258	you	_	_	
+90-10	3259-3263	made	_	_	
+90-11	3264-3266	it	_	_	
+90-12	3266-3267	?	_	_	
+90-13	3268-3270	❤️	_	EM\_bez	
+
+#Text=سلام
+91-1	3271-3275	سلام	_	_	
+
+#Text=Team Spirit 🤩
+92-1	3276-3280	Team	NP[33]	EvÄ\_p[512]|EvN\_p[513]	
+92-2	3281-3287	Spirit	NP[33]	EvÄ\_p[512]|EvN\_p[513]	
+92-3	3288-3290	🤩	NP[33]	EvÄ\_p[512]|EvB\_e\_rand[514]	
+
+#Text=Es sind alle wunderschön 💚 tolle Erinnerungs💚-Bilder
+93-1	3291-3293	Es	EP[34]	EvÄ\_p[515]	
+93-2	3294-3298	sind	EP[34]	EvÄ\_p[515]	
+93-3	3299-3303	alle	EP[34]	EvÄ\_p[515]|EvO[516]	
+93-4	3304-3315	wunderschön	EP[34]	EvÄ\_p[515]|EvB\_l[517]	
+93-5	3316-3318	💚	EP[34]	EvÄ\_p[515]|EM\_bez[518]	
+93-6	3319-3324	tolle	NP[35]	EvÄ\_p[519]|EvB\_l[520]	
+93-7	3325-3336	Erinnerungs	NP[35]	EvÄ\_p[519]|EvO[521]	
+93-8	3336-3338	💚	NP[35]	EvÄ\_p[519]|EvO[521]|EM\_bez[522]|EM\_s[523]|EM\_schm[524]	
+93-9	3338-3339	-	NP[35]	EvÄ\_p[519]|EvO[521]	
+93-10	3339-3345	Bilder	NP[35]	EvÄ\_p[519]|EvO[521]	
+
+#Text=3
+94-1	3346-3347	3	_	_	
+
+#Text=Beautiful couple ❤️
+95-1	3348-3357	Beautiful	NP[36]	EvÄ\_p[525]|EvB\_l[526]	
+95-2	3358-3364	couple	NP[36]	EvÄ\_p[525]|EvO[527]	
+95-3	3365-3367	❤️	NP[36]	EvÄ\_p[525]|EM\_bez[528]	
+
+#Text=Woher ist denn das tolle Kleid?Und alle Fotos sehen so toll aus 😍
+96-1	3368-3373	Woher	_	_	
+96-2	3374-3377	ist	_	_	
+96-3	3378-3382	denn	_	_	
+96-4	3383-3386	das	_	EvÄ\_p[529]	
+96-5	3387-3392	tolle	_	EvÄ\_p[529]|EvB\_l[530]	
+96-6	3393-3398	Kleid	_	EvÄ\_p[529]|EvO[531]	
+96-7	3398-3399	?	_	EvÄ\_p[529]	
+96-8	3399-3402	Und	SIEHT[37]	OP\_p\_oW[532]	
+96-9	3403-3407	alle	SIEHT[37]	OP\_p\_oW[532]	
+96-10	3408-3413	Fotos	SIEHT[37]	OP\_p\_oW[532]	
+96-11	3414-3419	sehen	SIEHT[37]	OP\_p\_oW[532]	
+96-12	3420-3422	so	SIEHT[37]	OP\_p\_oW[532]	
+96-13	3423-3427	toll	SIEHT[37]	OP\_p\_oW[532]	
+96-14	3428-3431	aus	SIEHT[37]	OP\_p\_oW[532]	
+96-15	3432-3434	😍	SIEHT[37]	OP\_p\_oW[532]|EM\_bez[533]|EvB\_e\_kern[534]|EvÄ\_p[535]	
+
+#Text=Soooo cute. ☺️❤️
+97-1	3435-3440	Soooo	AdjP[38]	EvÄ\_p[536]|EvB\_l[537]|Iteration[538]	
+97-2	3441-3445	cute	AdjP[38]	EvÄ\_p[536]|EvB\_l[537]	
+97-3	3445-3446	.	AdjP[38]	EvÄ\_p[536]	
+97-4	3447-3449	☺️	AdjP[38]	EvÄ\_p[536]|EM\_freu[539]	
+97-5	3449-3451	❤️	AdjP[38]	EvÄ\_p[536]|EM\_bez[540]	
